@@ -1,2 +1,2 @@
 # Bayesian-Network
-Bayesian Network probabilities calculator for Algorithmic Desicion Making
+Bayesian Network probabilities calculator for AI Algorithms
